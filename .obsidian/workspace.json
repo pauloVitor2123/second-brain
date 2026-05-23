@@ -11,10 +11,10 @@
             "id": "80a07693fde7ee76",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ]
@@ -179,6 +179,7 @@
   },
   "active": "80a07693fde7ee76",
   "lastOpenFiles": [
+    "referencia-projeto-comercial.md",
     "log.md.tmp.20116.b40e47d9dd26",
     "journal/index.md.tmp.20116.01a8f5ac931c",
     "journal/2026-05-23--finalizacao-segundo-cerebro.md",
