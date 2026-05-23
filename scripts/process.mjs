@@ -182,6 +182,8 @@ async function writeFiles(files) {
  * Move arquivos processados de /raw para /raw/processed.
  */
 async function moveToProcessed(filenames) {
+  await fs.mkdir(PATHS.processed, { recursive: true })
+
   for (const filename of filenames) {
     const src = path.join(PATHS.raw, filename)
     const dest = path.join(PATHS.processed, filename)
