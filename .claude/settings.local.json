@@ -4,7 +4,9 @@
       "Bash(node --test scripts/process.test.mjs)",
       "Bash(git add *)",
       "Bash(git commit -m ' *)",
-      "Bash(git push *)"
+      "Bash(git push *)",
+      "Bash(git commit -m 'fix: criar raw/processed/ antes do rename *)",
+      "Bash(git commit -m 'fix: autenticar git push com GITHUB_TOKEN *)"
     ]
   }
 }
