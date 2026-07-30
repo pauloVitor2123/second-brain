@@ -14,3 +14,8 @@ Scrapbook:
 - "passport" 
 - "toiletries"
 - "visa"
+
+
+ill = sick
+
+have you ever fallen ill during your travles?
