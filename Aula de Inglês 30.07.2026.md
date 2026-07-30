@@ -1,6 +1,6 @@
 
 
-### Talking about similarities
+## Talking about similarities
 
 "In both photos I can see..../ there is.../ there are..."
 "Both photos show..."
@@ -18,4 +18,22 @@ Scrapbook:
 
 ill = sick
 
-have you ever fallen ill during your travles?
+have you ever fallen ill during your travels?
+
+
+### Present perfect and past simple.
+
+#### Presenct perfect:
+
+- When we want to talking some about experience we use "Present Perfect"
+- When we want to taling about details happens in the past we use "Past Simple"
+
+**Have** you ever **missed** your flight? -> Present Perfect
+What **did** you do? -> Past Simple
+
+Scarpbook 2:
+
+- once/twice. A few/couple of times. Load of times.
+- Just the other day. Some (months) ago. When I was on holidays in...
+- No, and I wouldn't like to, but i'd like/love to. but I hope to one day.
+  
