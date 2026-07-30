@@ -25,14 +25,15 @@
             "id": "e4f0d6cc1d3fc2c8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "aFile": "wiki/Aula de Inglês 30.07.2026.md",
+                "bFile": "raw/Aula de Inglês 30.07.2026.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "diff",
+              "title": "Diff: Aula de Inglês 30.07.2026  (Index)"
             }
           }
         ],
@@ -206,12 +207,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e65eab6087b9d42",
+  "active": "96c35b14971ae0fd",
   "lastOpenFiles": [
+    "README.md",
     "index.md",
     "log.md",
     "raw/Aula de Inglês 30.07.2026.md",
-    "README.md",
     "agents.md",
     "images/Pasted image 20260730192237.png",
     "images/Pasted image 20260730192625.png",
