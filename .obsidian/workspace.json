@@ -11,14 +11,14 @@
             "id": "e4f0d6cc1d3fc2c8",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "wiki/andrej-karpathy.md",
-                "bFile": "wiki/andrej-karpathy.md",
-                "aRef": ""
+                "file": "raw/referencia-projeto-comercial.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: andrej-karpathy  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "referencia-projeto-comercial"
             }
           }
         ]
@@ -191,39 +191,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e4f0d6cc1d3fc2c8",
+  "active": "7e65eab6087b9d42",
   "lastOpenFiles": [
-    "raw/processed/Aula de Inglês 30.07.2026.md",
-    "raw/processed/Build An AI Second Brain Knowledge Base (Step-By-Step).md",
-    "wiki/journal-entrada.md",
-    "wiki/github.md",
     "wiki/front-matter.md",
     "wiki/crm-sistema.md",
-    "wiki/chrome-extension.md",
-    "wiki/automacao-ia.md",
+    "wiki/gestao-conhecimento.md",
     "wiki/andrej-karpathy.md",
-    "raw/processed/Mestrado Acadêmico em Matemática Aplicada FGV.md",
-    "raw/processed/EdTech como a IA está criando tutores particulares para cada aluno.md",
-    "raw/processed/Chamada de Eventos-Satélite do CSBC 2026.md",
+    "wiki/automacao-ia.md",
+    "wiki/chrome-extension.md",
+    "wiki/codex.md",
+    "wiki/github.md",
+    "wiki/obsidian.md",
+    "wiki/segundo-cerebro-ia.md",
+    "wiki/web-clipper.md",
+    "wiki/youtube-transcript.md",
     "raw/processed/Paulo Vitor e Samira - TCC Versão 4.docx.md",
     "raw/processed/Normas da ABNT regras de formatação para trabalhos acadêmicos.md",
+    "raw/processed/EdTech como a IA está criando tutores particulares para cada aluno.md",
+    "raw/processed/Mestrado Acadêmico em Matemática Aplicada FGV.md",
+    "raw/processed/Chamada de Eventos-Satélite do CSBC 2026.md",
+    "raw/processed/Build An AI Second Brain Knowledge Base (Step-By-Step).md",
+    "raw/processed/Aula de Inglês 30.07.2026.md",
+    "journal/2026-05-23--finalizacao-segundo-cerebro.md",
+    "journal/index.md",
+    "wiki/journal-entrada.md",
     "README.md",
     "index.md",
     "log.md",
     "raw/Aula de Inglês 30.07.2026.md",
-    "agents.md",
     "images/Pasted image 20260730192237.png",
     "images/Pasted image 20260730192625.png",
     "images",
-    "referencia-projeto-comercial.md",
-    "raw/Mestrado Acadêmico em Matemática Aplicada FGV.md",
-    "raw/Chamada de Eventos-Satélite do CSBC 2026.md",
-    "raw/Paulo Vitor e Samira - TCC Versão 4.docx.md",
-    "raw/Normas da ABNT regras de formatação para trabalhos acadêmicos.md",
-    "raw/EdTech como a IA está criando tutores particulares para cada aluno.md",
     "log.md.tmp.20116.b40e47d9dd26",
     "journal/index.md.tmp.20116.01a8f5ac931c",
-    "journal/2026-05-23--finalizacao-segundo-cerebro.md",
     "journal/2026-05-23--finalizacao-segundo-cerebro.md.tmp.20116.1b578db2e718",
     "Sem título.base"
   ]
