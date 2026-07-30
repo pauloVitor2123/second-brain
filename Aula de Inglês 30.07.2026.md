@@ -36,4 +36,8 @@ Scarpbook 2:
 - once/twice. A few/couple of times. Load of times.
 - Just the other day. Some (months) ago. When I was on holidays in...
 - No, and I wouldn't like to, but i'd like/love to. but I hope to one day.
-  
+
+
+![[Pasted image 20260730192237.png]]
+
+![[Pasted image 20260730192625.png]]

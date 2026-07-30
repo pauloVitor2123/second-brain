@@ -176,13 +176,23 @@
               "icon": "lucide-list",
               "title": "Sumário"
             }
+          },
+          {
+            "id": "96c35b14971ae0fd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,6 +208,8 @@
   },
   "active": "e4f0d6cc1d3fc2c8",
   "lastOpenFiles": [
+    "Pasted image 20260730192625.png",
+    "Pasted image 20260730192237.png",
     "referencia-projeto-comercial.md",
     "Aula de Inglês 30.07.2026.md",
     "raw/Mestrado Acadêmico em Matemática Aplicada FGV.md",
@@ -226,7 +238,6 @@
     "wiki/codex.md",
     "wiki/chrome-extension.md",
     "wiki/automacao-ia.md",
-    "wiki/andrej-karpathy.md",
-    "raw/processed/Build An AI Second Brain Knowledge Base (Step-By-Step).md"
+    "wiki/andrej-karpathy.md"
   ]
 }
