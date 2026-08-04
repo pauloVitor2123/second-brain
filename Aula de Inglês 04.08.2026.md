@@ -7,7 +7,8 @@ Arriaval -> Is connect to the moment I'm get the pace
 
 ## Curious
 
-
+![[Pasted image 20260804185700.png]]
 ## Figure out - Future Continuous
 
 The Future Continuous is formed by will (not) + be + -ing.
+![[Pasted image 20260804185740.png]]
