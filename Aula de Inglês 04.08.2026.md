@@ -16,8 +16,9 @@ The Future Continuous is formed by will (not) + be + -ing.
 
 ## Scrapbook 2
 
-(+) We use probably/definitely after will
+(+) We use probably/definitely **after** will
 
 ![[Pasted image 20260804191519.png]]
 
-(-) We use 
+(-) We use probably/definitely before won't/will not. After pronoum.
+![[Pasted image 20260804191723.png]]
