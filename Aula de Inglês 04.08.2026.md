@@ -12,3 +12,12 @@ Arriaval -> Is connect to the moment I'm get the pace
 
 The Future Continuous is formed by will (not) + be + -ing.
 ![[Pasted image 20260804185740.png]]
+
+
+## Scrapbook 2
+
+(+) We use probably/definitely after will
+
+![[Pasted image 20260804191519.png]]
+
+(-) We use 
