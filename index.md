@@ -1,45 +1,26 @@
 ---
-title: "Índice do Segundo Cérebro"
+title: Índice Principal
+tags: [índice]
 ---
 
-# Índice Geral
+# Second Brain
 
-## Pessoas
+## 📚 Wiki — Conceitos e Conhecimentos
 
-- [[Matt Wolfe]] - Criador de conteúdo focado em IA, desenvolveu seu próprio segundo cérebro
-- [[Andrej Karpathy]] - Pesquisador em IA, criou arquitetura base (LLM Wiki)
+### Linguagem e Idiomas
 
-## Conceitos e Sistemas
+#### Inglês
+- [[future-continuous]] — Tempo verbal para ações futuras em andamento
+- [[adverbios-de-frequencia-inglês]] — Posicionamento de probably/definitely
+- [[viagens-aereas]] — Vocabulário e contexto de voos
 
-- [[Segundo cérebro com IA]] - Sistema integrado de wiki + CRM + journal
-- [[Gestão de conhecimento]] - Princípios de organização e interligação de informação
-- [[Zettelkasten]] - Sistema analógico de notas interligadas (inspiração)
-- [[Automação com IA]] - Tarefas recorrentes automáticas
+## 📖 Journal
+*(Entradas pessoais e reflexivas)*
 
-## Ferramentas
+## 👥 CRM
+*(Contatos e relacionamentos)*
 
-- [[Obsidian]] - Organizador markdown, frontend visual
-  - [[Obsidian Web Clipper]] - Extensão para capturar web
-  - [[Web Clipper]] - Conceito geral
-  - [[Chrome Extension]] - Tipo de ferramenta
-- [[Codex]] - IDE com chat IA para processamento
-- [[GitHub]] - Versionamento e backup remoto
-
-## Formatos e Conceitos Técnicos
-
-- [[Markdown]] - Formato de texto estruturado
-- [[Front Matter]] - Metadados estruturados em yaml
-- [[YouTube Transcript]] - Transcrições automáticas de vídeos
-
-## Componentes do Sistema
-
-- [[Journal Entrada]] - Reflexões pessoais contextualizadas
-- [[CRM Sistema]] - Gestão de relacionamentos e contatos
-
-## Fontes Originais
-
-- "Build An AI Second Brain Knowledge Base (Step-By-Step)" - [[Matt Wolfe]] (YouTube)
+## 📝 Logs
+Veja [[log]] para registro de atualizações
 
 ---
-
-*Última atualização: 2026-05-23*

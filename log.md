@@ -1,16 +1,12 @@
 ---
-title: "Log de Processamento"
+title: Log de Atividades
+tags: [log, registro]
 ---
 
-# Log do Segundo Cérebro
-
-## Entradas
+# Log do Second Brain
 
 | Data | Arquivo | Resumo |
 |------|---------|--------|
-| 2026-05-23 10:30 | Build An AI Second Brain Knowledge Base (Step-By-Step).md | Processado vídeo de Matt Wolfe sobre construção de segundo cérebro com IA; extraídas 12 páginas de wiki (ferramentas, conceitos, pessoas) |
-| 2026-05-23 | journal/2026-05-23--finalizacao-segundo-cerebro.md | Primeira entrada de journal: finalização do setup, reflexão sobre hábito de captura |
+| 2026-08-04 10:30 | Aula de Inglês 04.08.2026.md | Extraído conceito de Future Continuous e posicionamento de advérbios de frequência; criadas 3 páginas de wiki |
 
 ---
-
-*Gerado automaticamente pelo agente de processamento*
